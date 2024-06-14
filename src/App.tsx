@@ -1,7 +1,7 @@
 import './App.css';
-
+import CookieGame from './CookieGame.tsx'
 function App() {
-  return <h1>React Typescript starter Project</h1>;
+  return <CookieGame />;
 }
 
 export default App;
